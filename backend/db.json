@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "name": "caneta ",
+      "price": 1,
+      "id": 2
+    },
+    {
+      "name": "sansung s20",
+      "price": 5000,
+      "id": 3
+    },
+    {
+      "name": "carrinho",
+      "price": 140,
+      "id": 4
+    },
+    {
+      "name": "users",
+      "price": 1,
+      "id": 5
+    }
+  ]
+}
